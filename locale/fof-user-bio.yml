@@ -1,0 +1,9 @@
+fof-userbio:
+  admin:
+    permission:
+      view: Bio ansehen
+      editOwn: Eigene Bio editieren
+      editAny: Alle Bio's editieren
+
+  forum:
+    userbioPlaceholder: Schreibe etwas über dich!
